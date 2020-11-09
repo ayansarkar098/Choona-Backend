@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"choona.country_codes"}],"uuid":"0822749d50e24c15852414a4a82e129b"}

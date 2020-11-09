@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"choona.settings"}],"uuid":"fc1ee704900f4428919e46ca4c5b6525"}
